@@ -71,6 +71,5 @@ export const ButtonLink = styled(Button)`
         color: var(--white);
         outline: 0;
         text-align: center;
-
     }
 `;
