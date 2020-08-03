@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # playlists
-Projeto Web inspirado na interface da Netflix. Desenvolvido com o intuído de aprender React duarante a #ImersaoReact e praticar desenvolvimento web.
+Projeto Web inspirado na interface da Netflix. Desenvolvido com o intuído de aprender React e praticar desenvolvimento web.
 >>>>>>> 0d30a59e036df03f0b4b68857ffcf58ec9128dea
